@@ -1,0 +1,11 @@
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\MergeSort\bin\Debug\netcoreapp2.2\MergeSort.deps.json
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\MergeSort\bin\Debug\netcoreapp2.2\MergeSort.runtimeconfig.json
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\MergeSort\bin\Debug\netcoreapp2.2\MergeSort.runtimeconfig.dev.json
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\MergeSort\bin\Debug\netcoreapp2.2\MergeSort.dll
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\MergeSort\bin\Debug\netcoreapp2.2\MergeSort.pdb
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\MergeSort\obj\Debug\netcoreapp2.2\MergeSort.csprojAssemblyReference.cache
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\MergeSort\obj\Debug\netcoreapp2.2\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\MergeSort\obj\Debug\netcoreapp2.2\MergeSort.AssemblyInfoInputs.cache
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\MergeSort\obj\Debug\netcoreapp2.2\MergeSort.AssemblyInfo.cs
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\MergeSort\obj\Debug\netcoreapp2.2\MergeSort.dll
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\MergeSort\obj\Debug\netcoreapp2.2\MergeSort.pdb
